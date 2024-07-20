@@ -1,10 +1,10 @@
 # Oracle-Classification
 **RAICOM CAIP Algorithm optimization Competition**
 
-Datasets:HWOBC(without test datasets)
-Backbone:efficientnet-b2
-grades:0.991
+<br/>Datasets:HWOBC(without test datasets)</br>
+<br/>Backbone:efficientnet-b2<br/>
+<br/>acc:0.991</br>
 
 **How to train**
-Change the path in train.py according to your local path
-run train.oy
+<br/>Change the path in train.py according to your local path<br/>
+<br/>run train.py</br>
